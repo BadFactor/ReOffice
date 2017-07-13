@@ -10,4 +10,4 @@ Office Suit, for RedoxOS.
 
 ## UI Design Design Study
 
-![Screenshot](screenshot.png)
+![Screenshot](Eexample_Office_UI_720.png)
