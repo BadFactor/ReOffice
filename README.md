@@ -16,6 +16,8 @@ Office Suit, for RedoxOS.
 - no Sidebar/s Menu
 - If you typed the name of the document, it popsup a message where u wanna save it!
 - *.ODT is the supported document mainfile
+- Microphone is supported for the integrated Speech to Text software support (represents the on button)
+- The off button, is the supported Text to Speech software
 
 ![Screenshot](untitled_page.png)
 
