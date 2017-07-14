@@ -19,5 +19,6 @@ Office Suit, for RedoxOS.
 
 ![Screenshot](untitled_page.png)
 
-
-tis is not finished or in progress, just to present the look and feel
+this is not finished or in progress, just to present the look and feel!
+it is made with Pencil Software
+https://pencil.evolus.vn/
