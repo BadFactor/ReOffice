@@ -25,7 +25,7 @@ Office Suit, for RedoxOS.
 - support of the *.fountain format ( https://fountain.io/ )
 - 
 
-![Screenshot](rewriter.png)
+![Screenshot](.png)
 
 this is not finished or in progress, just to present the look and feel!
 it is made with Pencil Software
